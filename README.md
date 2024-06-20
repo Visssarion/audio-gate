@@ -1,6 +1,9 @@
+![Icon](https://github.com/Visssarion/audio-gate/blob/main/icon.png?raw=true)
 # AudioEffectGate
+Audio Gate Effect to mute all noise below certain threshold.
 
-Audio Gate Effect to mute all noise before certain threshold.
+![Screenshow showcasing effect added on an Audio Bus](https://github.com/Visssarion/audio-gate/blob/main/raw/screenshot_bus.png) ![Screenshow showcasing effect's parameters](https://github.com/Visssarion/audio-gate/blob/main/raw/screenshot_parameters.png)
+
 
 ### Getting started:
 1. Install the addon.
