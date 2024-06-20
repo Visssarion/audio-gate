@@ -1,6 +1,6 @@
 [configuration]
 
-entry_symbol = "gdextension_init"
+entry_symbol = "gate_effect_init"
 compatibility_minimum = 4.2
 
 [libraries]
